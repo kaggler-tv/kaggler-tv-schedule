@@ -18,11 +18,11 @@ To request a content, please create an issue and describe what you'd like to wat
 - [ ] Career Tracks for Data Scientists
 
 # INFORMATION
-* [Blog](https://kaggler.com)
-* [Twitter](https://twitter.com/kagglertv)
-* [Facebook Page](https://www.facebook.com/Kaggler/)
-* [Youtube Channel](https://www.youtube.com/channel/UCI8Y-po83Y4LLnIdAe_cmNA/)
-* [Python Package](https://github.com/jeongyoonlee/Kaggler)
+* [Kaggler Blog](https://kaggler.com)
+* [Kaggler TV Twitter](https://twitter.com/kagglertv)
+* [Kaggler Facebook Page](https://www.facebook.com/Kaggler/)
+* [Kaggler TV Youtube Channel](https://www.youtube.com/channel/UCI8Y-po83Y4LLnIdAe_cmNA/)
+* [Kaggler Python Package](https://github.com/jeongyoonlee/Kaggler)
 
 # OTHER RESOURCES
 
