@@ -8,14 +8,15 @@ To request a content, please create an issue and describe what you'd like to wat
 # SCHEDULE
 
 ## Competition
-- [ ] Introduction to Machine Learning Competitions
+- [ ] Introduction to Machine Learning Competitions (10am on 1/19/2020 PT)
+- [ ] Data Leaks in Machine Learning Competitions (10am on 2/9/2020 PT)
 
 ## Coding
-- [ ] How to Debug Python Code
-- [ ] How to Profile Python Code
+- [ ] How to Debug Python Code (10am on 1/25/2020 PT)
+- [ ] How to Profile Python Code (10am on 2/15/2020 PT)
 
 ## Data Science Career Development
-- [ ] Career Tracks for Data Scientists
+- [ ] Career Tracks for Data Scientists (10am on 2/1/2020 PT)
 
 # INFORMATION
 * [Kaggler Blog](https://kaggler.com)
