@@ -10,13 +10,14 @@ To request a content, please create an issue and describe what you'd like to wat
 ## Competition
 - [ ] Introduction to Machine Learning Competitions (10am on 1/19/2020 PT)
 - [ ] Data Leaks in Machine Learning Competitions (10am on 2/9/2020 PT)
+- [ ] How to Improve Models When You Hit the Wall (10am on 3/1/2020 PT)
 
 ## Coding
-- [ ] How to Debug Python Code (10am on 1/25/2020 PT)
-- [ ] How to Profile Python Code (10am on 2/15/2020 PT)
+- [ ] How to Debug Python Code (10am on 1/26/2020 PT)
+- [ ] How to Profile Python Code (10am on 2/16/2020 PT)
 
 ## Data Science Career Development
-- [ ] Career Tracks for Data Scientists (10am on 2/1/2020 PT)
+- [ ] Career Tracks for Data Scientists (10am on 2/2/2020 PT)
 
 # INFORMATION
 * [Kaggler Blog](https://kaggler.com)
