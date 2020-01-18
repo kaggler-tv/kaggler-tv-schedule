@@ -12,7 +12,7 @@ To request a content, please create an issue and describe what you'd like to wat
 - [ ] Data Leaks in Machine Learning Competitions (10am on 2/9/2020 PT)
 - [ ] How to Improve Models When You Hit the Wall - requested by [@init27](https://github.com/init27) (10am on 3/1/2020 PT)
 
-## Coding
+## Skills for Data Scientists
 - [ ] How to Debug Python Code (10am on 1/26/2020 PT)
 - [ ] How to Profile Python Code (10am on 2/16/2020 PT)
 
