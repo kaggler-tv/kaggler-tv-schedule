@@ -11,7 +11,8 @@ To request a content, please create an issue and describe what you'd like to wat
 - [x] [Kaggler TV Intro](https://www.youtube.com/playlist?list=PLFXBBYbamrKk7eo3fzeKnV_RQqx9bYYx5) on 1/18/2020
 
 ## Competition
-- [ ] Introduction to Machine Learning Competitions (10am on 1/19/2020 PT)
+- [x] [Introduction to Machine Learning Competitions](https://youtu.be/at9NHytskzc) on 1/19/2020
+- [ ] How to Start a Kaggle Competition (TBD)
 - [ ] Data Leaks in Machine Learning Competitions (10am on 2/9/2020 PT)
 - [ ] How to Improve Models When You Hit the Wall - requested by [@init27](https://github.com/init27) (10am on 3/1/2020 PT)
 
