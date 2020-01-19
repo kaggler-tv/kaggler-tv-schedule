@@ -7,6 +7,9 @@ To request a content, please create an issue and describe what you'd like to wat
 
 # SCHEDULE
 
+## Introduction
+- [x] [Kaggler TV Intro](https://www.youtube.com/playlist?list=PLFXBBYbamrKk7eo3fzeKnV_RQqx9bYYx5) on 1/18/2020
+
 ## Competition
 - [ ] Introduction to Machine Learning Competitions (10am on 1/19/2020 PT)
 - [ ] Data Leaks in Machine Learning Competitions (10am on 2/9/2020 PT)
