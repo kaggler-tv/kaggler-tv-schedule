@@ -17,18 +17,18 @@ To request a content, please create an issue and describe what you'd like to wat
 
 ## Competition
 - [x] [Introduction to Machine Learning Competitions](https://youtu.be/at9NHytskzc) on 1/19/2020
-- [ ] How to Start a Kaggle Competition - requested by Biswajit G. and Aditya V. S. (TBD)
+- [x] How to Start a Kaggle Competition - requested by Biswajit G. and Aditya V. S. at 10am on 1/26/2020
 - [ ] How to Improve Models When You Hit the Wall - requested by [@init27](https://github.com/init27) and Aditya V. S. (10am on 3/1/2020 PT)
 - [ ] Winning Solution Architectures - requested by Dimitrios B.
 - [ ] How to Become a Kaggle Master - requested by [@kurianbenoy](https://github.com/kurianbenoy)
 - [ ] Data Leaks in Machine Learning Competitions (10am on 2/9/2020 PT)
 
 ## Skills for Data Scientists
-- [ ] How to Debug Python Code (10am on 1/26/2020 PT)
-- [ ] How to Profile Python Code (10am on 2/16/2020 PT)
+- [ ] How to Debug Python Code (TBD)
+- [ ] How to Profile Python Code (TBD)
 
 ## Data Science Career Development
-- [ ] Career Tracks for Data Scientists (10am on 2/2/2020 PT)
+- [ ] Career Tracks for Data Scientists (TBD)
 
 # INFORMATION
 * [Kaggler Blog](https://kaggler.com)
