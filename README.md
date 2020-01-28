@@ -17,7 +17,7 @@ To request a content, please create an issue and describe what you'd like to wat
 
 ## Competition
 - [x] [Introduction to Machine Learning Competitions](https://youtu.be/at9NHytskzc) on 1/19/2020
-- [x] How to Start a Kaggle Competition - requested by Biswajit G. and Aditya V. S. at 10am on 1/26/2020
+- [x] [How to Start a Kaggle Competition](https://youtu.be/WOsXjjSuefU) - requested by Biswajit G. and Aditya V. S. on 1/26/2020
 - [ ] How to Improve Models When You Hit the Wall - requested by [@init27](https://github.com/init27) and Aditya V. S. (10am on 3/1/2020 PT)
 - [ ] Winning Solution Architectures - requested by Dimitrios B.
 - [ ] How to Become a Kaggle Master - requested by [@kurianbenoy](https://github.com/kurianbenoy)
