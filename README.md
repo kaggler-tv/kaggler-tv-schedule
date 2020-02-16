@@ -17,13 +17,13 @@ To request a content, please create an issue and describe what you'd like to wat
 
 ## Competition
 - [x] [Introduction to Machine Learning Competitions](https://youtu.be/at9NHytskzc) on 1/19/2020
-- [x] [How to Start a Kaggle Competition](https://youtu.be/WOsXjjSuefU) - requested by Biswajit G. and Aditya V. S. on 1/26/2020
-- [x] [How to Become a Competition Master at Kaggle](https://youtu.be/G2ZeYWRruKc) - requested by [@kurianbenoy](https://github.com/kurianbenoy) on 2/2/2020
-- [x] [Kaggle Competition Pipeline Demo](https://youtu.be/861NAO5-XJo) - requested by [@pulkitmehtawork](https://github.com/pulkitmehtawork) on 2/9/2020
-- [x] [How to Manage Kaggle Competition - Code & Tasks](https://youtu.be/HqhG7T9UL88) on 2/16/2020.
+- [x] [How to Start a Kaggle Competition](https://youtu.be/WOsXjjSuefU) on 1/26/2020 - requested by Biswajit G. and Aditya V. S.
+- [x] [How to Become a Competition Master at Kaggle](https://youtu.be/G2ZeYWRruKc) on 2/2/2020 - requested by [@kurianbenoy](https://github.com/kurianbenoy)
+- [x] [Kaggle Competition Pipeline Demo](https://youtu.be/861NAO5-XJo) on 2/9/2020 - requested by [@pulkitmehtawork](https://github.com/pulkitmehtawork)
+- [x] [How to Manage Kaggle Competition - Code & Tasks](https://youtu.be/HqhG7T9UL88) on 2/16/2020 - requested by [@kgilpas](https://github.com/kgilpas)
 - [ ] How to Improve Models When You Hit the Wall - requested by [@init27](https://github.com/init27) and Aditya V. S. (10am on 3/1/2020 PT)
 - [ ] Winning Solution Architectures - requested by Dimitrios B.
-- [ ] Data Leaks in Machine Learning Competitions (10am on 2/9/2020 PT)
+- [ ] Data Leaks in Machine Learning Competitions (TBD)
 
 ## Skills for Data Scientists
 - [ ] How to Debug Python Code (TBD)
