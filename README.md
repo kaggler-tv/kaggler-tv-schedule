@@ -22,11 +22,12 @@ To request a content, please create an issue and describe what you'd like to wat
 - [x] [Kaggle Competition Pipeline Demo](https://youtu.be/861NAO5-XJo) on 2/9/2020 - requested by [@pulkitmehtawork](https://github.com/pulkitmehtawork)
 - [x] [How to Manage Kaggle Competition - Code & Tasks](https://youtu.be/HqhG7T9UL88) on 2/16/2020 - requested by [@kgilpas](https://github.com/kgilpas)
 - [x] [How to Manage Kaggle Competition - Files](https://youtu.be/Dk1dznYe5kA) on 2/23/2020 - requested by [@kgilpas](https://github.com/kgilpas) and Naoto
-- [ ] How to Improve Models When You Hit the Wall - requested by [@init27](https://github.com/init27) and Aditya V. S. (10am on 3/1/2020 PT)
+- [ ] How to Improve Models When You Hit the Wall - requested by [@init27](https://github.com/init27) and Aditya V. S. 
 - [ ] Winning Solution Architectures - requested by Dimitrios B.
 - [ ] Data Leaks in Machine Learning Competitions (TBD)
 
 ## Skills for Data Scientists
+- [x] [Command Line Tools for DS #1 - tmux](https://youtu.be/-hDuDf_NL1c) on 3/1/2020
 - [ ] How to Debug Python Code (TBD)
 - [ ] How to Profile Python Code (TBD)
 
