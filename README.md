@@ -32,6 +32,7 @@ To request a content, please create an issue and describe what you'd like to wat
 - [ ] How to Profile Python Code (TBD)
 
 ## Data Science Career Development
+- [x] [Starting a Data Science Career - Challenges and Strategies](https://youtu.be/r5WBnAw8B4E) on 3/8/2020
 - [ ] Career Tracks for Data Scientists (TBD)
 
 # INFORMATION
