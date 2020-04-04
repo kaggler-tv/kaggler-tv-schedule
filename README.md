@@ -22,6 +22,7 @@ To request a content, please create an issue and describe what you'd like to wat
 - [x] [Kaggle Competition Pipeline Demo](https://youtu.be/861NAO5-XJo) on 2/9/2020 - requested by [@pulkitmehtawork](https://github.com/pulkitmehtawork)
 - [x] [How to Manage Kaggle Competition - Code & Tasks](https://youtu.be/HqhG7T9UL88) on 2/16/2020 - requested by [@kgilpas](https://github.com/kgilpas)
 - [x] [How to Manage Kaggle Competition - Files](https://youtu.be/Dk1dznYe5kA) on 2/23/2020 - requested by [@kgilpas](https://github.com/kgilpas) and Naoto
+- [x] [Tips for Winning Medals at Vision Competitions #1 - Cutmix at BengaliAI](https://youtu.be/NYPjruSyD9I) on 4/3/2020 by [Youhan Lee](https://www.kaggle.com/youhanlee)
 - [ ] How to Improve Models When You Hit the Wall - requested by [@init27](https://github.com/init27) and Aditya V. S. 
 - [ ] Winning Solution Architectures - requested by Dimitrios B.
 - [ ] Data Leaks in Machine Learning Competitions (TBD)
